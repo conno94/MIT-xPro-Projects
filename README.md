@@ -1,2 +1,18 @@
 # MIT-xPro-Projects
-Projects throughout my first year of coding.
+DESCRIPTION:
+These are projects I have created throughout my first year of coding.
+
+INSTALLATION:
+N/A
+
+USAGE:
+N/A
+
+SUPPORT:
+N/A
+
+ROADMAP:
+N/A
+
+LICESNSE:
+
