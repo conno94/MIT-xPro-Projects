@@ -1,19 +1,19 @@
 # MIT-xPro-Projects
 
-DESCRIPTION:
+	DESCRIPTION:
 These are projects I have created throughout my first year of coding.
 
-INSTALLATION:
+	INSTALLATION:
 N/A
 
-USAGE:
+	USAGE:
 Click the icon for the pac-man to start moving.
 
-SUPPORT:
+	SUPPORT:
 N/A
 
-ROADMAP:
+	ROADMAP:
 I plan to update this portfolio with more projects this year.
 
-LICESNSE:
+	LICESNSE:
 N/A
